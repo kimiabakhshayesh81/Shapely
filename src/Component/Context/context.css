@@ -1,0 +1,35 @@
+.container-context{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    padding: 5%;
+}
+
+.img-elem{
+    width: 400px;
+    height: 350px;
+}
+
+.text-card{
+    width: 350px;
+    height: 300px;
+    align-items: center;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+.title{
+    font-size: 20px;
+    font-family: cursive;
+    padding-bottom: 20px;
+}
+
+.lorem-text{
+    font-size: 15px;
+    line-height: 1.5;
+    color: rgb(142, 138, 138);
+}
+
+.btn{
+    margin-top: 35px;
+}
